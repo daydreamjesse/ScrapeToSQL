@@ -1,0 +1,6 @@
+5/30/19
+
+Created dbhandling.py as a foundation for interfacing with SQLite
+Created DBtoTXT.py to get information from a database to a .txt file for quick file sharing
+Created scraper.py as a foundation for scraping information from websites based on HTML tags and classes
+Created ScrapeToDB.py as an interface between the webscraping package and the dbhandling package
